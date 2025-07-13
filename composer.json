@@ -1,0 +1,12 @@
+{
+  "name": "yourname/charity-impact-tracker",
+  "description": "WordPress plugin to track and report charity project impacts",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "CIT\\": "includes/"
+    }
+  },
+  "require": {}
+}
