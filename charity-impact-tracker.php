@@ -1,13 +1,14 @@
 <?php
 /**
  * Plugin Name: Charity Impact Tracker
+ * Plugin URI: https://begatifydev.github.io/html-resume/
  * Description: Advanced plugin to manage charity projects and impact reports with CPTs, shortcodes, REST API, and Gutenberg block support.
- * Version: 1.0.0
- * Author: Your Name
+ * Version: 1.0.1
+ * Author: OLUWAFEMI OLUWATOBI BEST
+ * Author URI: https://begatifydev.github.io/html-resume/
  * Text Domain: charity-impact-tracker
  * Domain Path: /languages
  */
-
 if (!defined('ABSPATH')) exit;
 
 // Define constants
